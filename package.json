@@ -1,0 +1,23 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "description": "Solana airdrop javascript tutorial from https://openquest.xyz/quest/create-an-airdrop-program-with-solana-web3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pewekar/airdrop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pewekar/airdrop/issues"
+  },
+  "homepage": "https://github.com/pewekar/airdrop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
